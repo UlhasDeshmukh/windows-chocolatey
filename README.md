@@ -15,6 +15,10 @@ $ vagrant ssh
 
 * [Vagrant](https://www.vagrantup.com) with [SSH fixes](https://gist.github.com/mcandre/ddc03bf5c36720731345eeb408261911#fix-vagrant-ssh-conflicts)
 
+## Supported Providers
+
+* [VirtualBox](https://www.virtualbox.org)
+
 ## Optional
 
 * [coreutils](https://www.gnu.org/software/coreutils/coreutils.html)
