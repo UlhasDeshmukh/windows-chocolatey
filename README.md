@@ -19,3 +19,12 @@ $ vagrant ssh
 
 * [coreutils](https://www.gnu.org/software/coreutils/coreutils.html)
 * [make](https://www.gnu.org/software/make/)
+
+# PUBLISH
+
+```
+$ time make box
+...
+```
+
+Then manually create, version, upload, and release the new box on [Atlas](https://atlas.hashicorp.com/vagrant).
