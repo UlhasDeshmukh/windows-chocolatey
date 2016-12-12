@@ -13,7 +13,7 @@ $ vagrant ssh
 
 # REQUIREMENTS
 
-* [Vagrant](https://www.vagrantup.com)
+* [Vagrant](https://www.vagrantup.com) with [SSH fixes](https://gist.github.com/mcandre/ddc03bf5c36720731345eeb408261911#fix-vagrant-ssh-conflicts)
 
 ## Optional
 
