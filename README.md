@@ -11,6 +11,10 @@ $ vagrant ssh
 0.10.3
 ```
 
+# ATLAS
+
+https://atlas.hashicorp.com/mcandre/boxes/windows-chocolatey/
+
 # REQUIREMENTS
 
 * [Vagrant](https://www.vagrantup.com) with [SSH fixes](https://gist.github.com/mcandre/ddc03bf5c36720731345eeb408261911#fix-vagrant-ssh-conflicts)
