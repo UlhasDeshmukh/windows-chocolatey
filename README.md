@@ -1,3 +1,9 @@
+# DEPRECATED
+
+In favor of the more capable mcandre/windows box:
+
+https://app.vagrantup.com/mcandre/boxes/windows
+
 # windows-chocolatey: a Windows guest box for Vagrant, with Chocolatey preinstalled
 
 # EXAMPLE
